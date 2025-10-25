@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761363521.23233 "report.tex" "report.pdf" "report" 1761363532.78942 2
+["pdflatex"] 1761364265.73165 "report.tex" "report.pdf" "report" 1761364272.91953 2
   "/etc/texmf/web2c/texmf.cnf" 1761362979.06899 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -56,12 +56,12 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1700082560 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1761363003.53299 128028 f533b797fba58d231669ea19e894e23e ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1761363045 6800786 08762cb171a303fd4ea1339321bf8889 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1761364085.93298 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1761364201 8212969 ff6bfd7098c075d77233a4448598260e ""
   "exercise1_screenshot.png" 1761362568.443 44932 c7f44debc3bd8e1e0e6757e98ed15b0f ""
   "exercise2_screenshot.png" 1761362570.386 44257 396db5bb9828e1190fb07f568719fc15 ""
   "hello_world.c" 1761359471.72803 764 cb59ed9bf3c26470daf42c716bd52e49 ""
-  "report.aux" 1761363532.73799 1016 e0e1a707788337d5e455fafab8ccc0ad "pdflatex"
+  "report.aux" 1761364272.84298 1016 e0e1a707788337d5e455fafab8ccc0ad "pdflatex"
   "report.tex" 1761363512.09299 7716 3838775c88000976f0be55f0cff21e89 ""
   "spacex.c" 1761359560.48203 854 89e52fbaa44fe60fa9d620285244d4d8 ""
   (generated)
